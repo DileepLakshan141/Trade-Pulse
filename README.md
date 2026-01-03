@@ -20,11 +20,6 @@ To create an enterprise-grade business management platform that demonstrates sop
 - [Core Modules](#-core-modules)
 - [Development Roadmap](#-development-roadmap)
 - [Technical Stack](#-technical-stack)
-- [Database Schema](#-database-schema)
-- [API Design](#-api-design)
-- [AI/ML Features](#-aiml-features)
-- [Deployment Strategy](#-deployment-strategy)
-- [Success Metrics](#-success-metrics)
 
 ## 🏗️ Architecture Decision
 

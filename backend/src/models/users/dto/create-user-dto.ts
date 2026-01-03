@@ -32,7 +32,7 @@ export class CreateUserDTO {
 
   @IsEnum(Role)
   @IsNotEmpty()
-  role: number;
+  role: Role;
 
   @IsString()
   @IsOptional()

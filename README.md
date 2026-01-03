@@ -16,15 +16,9 @@ To create an enterprise-grade business management platform that demonstrates sop
 ## 📋 Table of Contents
 
 - [Architecture Decision](#-architecture-decision)
-- [User Roles & Permissions](#-user-roles--permissions)
 - [Core Modules](#-core-modules)
 - [Development Roadmap](#-development-roadmap)
 - [Technical Stack](#-technical-stack)
-- [Database Schema](#-database-schema)
-- [API Design](#-api-design)
-- [AI/ML Features](#-aiml-features)
-- [Deployment Strategy](#-deployment-strategy)
-- [Success Metrics](#-success-metrics)
 
 ## 🏗️ Architecture Decision
 

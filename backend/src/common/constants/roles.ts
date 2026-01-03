@@ -1,0 +1,7 @@
+export const USER_ROLES = {
+  CASHIER: 3756,
+  MANAGER: 4112,
+  ADMIN: 8645,
+  OWNER: 4534,
+  CUSTOMER: 2113,
+};

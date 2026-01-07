@@ -1,4 +1,4 @@
-# Trade Pulse 🏪 (On Going Project)
+# Trade Pulse 🏪 (On Going Project- Under Development)
 
 **Next-Generation Hardware & Building Materials Management System**
 
@@ -54,7 +54,7 @@ To create an enterprise-grade business management platform that demonstrates sop
 - [ ] Activity logging & audit trail
 - [ ] Session management
 - [ ] Password policies
-- [ ] User profiles with photos
+- [✅] User profiles with photos
 
 ### Module 2: Product Catalog Management
 
